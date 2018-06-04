@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Graduation Project Van Transmission.cpp
+  Gear.cpp
+d:\vs\c++proj\graduation project\graduation project van transmission\graduation project van transmission\gear.cpp(13): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...

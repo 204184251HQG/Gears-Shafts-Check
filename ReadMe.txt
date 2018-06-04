@@ -1,0 +1,1 @@
+阅读 geardata.txt 底下的说明即可

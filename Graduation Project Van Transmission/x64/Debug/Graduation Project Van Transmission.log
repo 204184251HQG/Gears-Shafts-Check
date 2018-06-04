@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Shaft.cpp
+  Graduation Project Van Transmission.cpp
+d:\vs\c++proj\graduation project\变速器校核程序黄祺垄\graduation project van transmission\graduation project van transmission.cpp(61): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\vs\c++proj\graduation project\变速器校核程序黄祺垄\graduation project van transmission\graduation project van transmission.cpp(104): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+d:\vs\c++proj\graduation project\变速器校核程序黄祺垄\graduation project van transmission\graduation project van transmission.cpp(104): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Gear.cpp
+d:\vs\c++proj\graduation project\变速器校核程序黄祺垄\graduation project van transmission\gear.cpp(77): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\vs\c++proj\graduation project\变速器校核程序黄祺垄\graduation project van transmission\gear.cpp(81): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\vs\c++proj\graduation project\变速器校核程序黄祺垄\graduation project van transmission\gear.cpp(86): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Graduation Project Van Transmission.vcxproj -> D:\VS\C++proj\Graduation Project\变速器校核程序黄祺垄\x64\Debug\Graduation Project Van Transmission.exe
+  Graduation Project Van Transmission.vcxproj -> D:\VS\C++proj\Graduation Project\变速器校核程序黄祺垄\x64\Debug\Graduation Project Van Transmission.pdb (Full PDB)
